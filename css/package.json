@@ -1,0 +1,15 @@
+{
+  "name": "learning-task-2-3",
+  "version": "1.0.0",
+  "description": "Learning Task 2.3 HTML/CSS Wireframe Conversion",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
